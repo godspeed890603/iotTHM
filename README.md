@@ -12,4 +12,5 @@ https://www.facebook.com/chen.kermit/videos/10206182689764710</br></br>
 
 ## 成果
 https://github.com/godspeed890603/iotTHM/blob/master/result/RaspberryTHM.mp4
+https://www.facebook.com/chen.kermit/videos/10206182689764710
 
